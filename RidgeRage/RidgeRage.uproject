@@ -16,6 +16,10 @@
 			"Name": "BlueMan_VehicleAI",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6d468c2dc687400f9c466ca418c8a1c1"
+		},
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": true
 		}
 	]
 }
